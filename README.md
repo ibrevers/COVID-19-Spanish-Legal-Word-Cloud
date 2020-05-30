@@ -13,7 +13,7 @@ The main purpose of this project is:
 Table of Contents:
 
     /Data: Data used in the project
-    /Visualization: Charts and maps outputs
+    /Outputs: Charts and maps outputs
     
     Notebook: COVID-19 Spanish Legal Word Cloud.ipynb
     Linkedin Blogpost: [*]
