@@ -14,5 +14,6 @@ Table of Contents:
 
     /Data: Data used in the project
     /Visualization: Charts and maps outputs
-    /Notebook: 
-    /Linkedin Blogpost: [*]
+    
+    Notebook: 
+    Linkedin Blogpost: [*]
