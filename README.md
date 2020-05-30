@@ -15,5 +15,5 @@ Table of Contents:
     /Data: Data used in the project
     /Visualization: Charts and maps outputs
     
-    Notebook: 
+    Notebook: COVID-19 Spanish Legal Word Cloud.ipynb
     Linkedin Blogpost: [*]
