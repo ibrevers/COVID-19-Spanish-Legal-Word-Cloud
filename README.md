@@ -10,10 +10,10 @@ The main purpose of this project is:
 - the analysis of the frequency of the words included in the legal texts;
 - having fun with Python and Data Science.
 
-Table of Contents:
+Contents:
 
     /Data: Data used in the project
     /Outputs: Charts and maps outputs
     
     Notebook: COVID-19 Spanish Legal Word Cloud.ipynb
-    Linkedin Blogpost: [*]
+    Linkedin Blogpost (Spanish): https://www.linkedin.com/pulse/an%25C3%25A1lisis-reales-decretos-ley-covid-19-word-cloud-isidro-brevers-g%25C3%25B3mez
